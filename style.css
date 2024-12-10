@@ -269,7 +269,7 @@ body {
     line-height: 1.5em;
    }
    .btns{
-    background: #000;
+    /* background: #000; */
     width: 100%;
     font-size: 0.8em;
    }
